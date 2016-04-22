@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "angular2": "2.0.0-beta.15",
-    "angular2-universal": "~0.98.0",
+    "angular2-universal": "~0.98.2",
     "body-parser": "^1.15.0",
     "express": "^4.13.3",
     "preboot": "^2.0.5",
@@ -41,7 +41,7 @@
     "rimraf": "^2.5.0",
     "ts-loader": "^0.8.1",
     "typescript": "^1.8.7",
-    "typings": "^0.7.9",
+    "typings": "~0.8.1",
     "webpack": "^1.12.10",
     "webpack-dev-server": "^1.14.0",
     "webpack-merge": "^0.8.4"
